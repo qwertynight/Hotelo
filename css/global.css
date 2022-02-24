@@ -1,0 +1,504 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-nav {
+	margin-left: 400px;
+}
+.sign {
+	border: 1px solid #999999 !important;
+	box-sizing: border-box;
+	border-radius: 35px !important;
+	padding: 10px 22px !important;
+	color: #100F2E;
+	cursor: pointer;
+} 
+.card-img-top {
+	-moz-transition: all 1s ease-out;
+	-o-transition: all 1s ease-out;
+	-webkit-transition: all 1s ease-out;
+ 	}
+ 
+.card-img-top:hover{
+ -webkit-transform: scale(1.1);
+ -moz-transform: scale(1.1);
+ -o-transform: scale(1.1);
+ }
+.home h1 {
+	line-height: 80px;
+}
+.home p {
+	max-width: 476px;
+}
+.vacation {
+	width: 500px ;
+	height: 438px  ;
+}
+.conta img {
+	width: 900px ;
+}
+.content {
+	flex-wrap: wrap;
+	background: #FFFFFF !important;
+	box-shadow: 0px 22px 38px rgba(0, 34, 19, 0.04) !important;
+	border-radius: 20px !important;
+	width: 438px;
+	padding: 35px 20px !important;
+	margin-top: 33px !important;
+}
+.br {
+	border-radius: 8px !important;
+	text-align: center;
+}
+.birth {
+	    width: 144px;
+    height: 34px;
+}
+.birth-1 {
+    width: 144px;
+    height: 34px;
+	flex-wrap: wrap;
+}
+.img-foot {
+	margin-bottom: 20px;
+}
+.ig h2 {
+	 font-weight: 600;
+	font-size: 48px;	
+}
+.j {
+	margin-left: 158px;
+}
+.j img {
+	width: 280px;
+	height: 248px;
+}
+.p	{
+	color: blue;
+}
+.mm {
+	margin-left: 293px;
+}
+.card-1 {
+	height: 232px;
+	width: 452px;
+	background: #FFFFFF !important;
+	box-shadow: 0px 30px 40px rgba(0, 0, 0, 0.05);
+	border-radius: 8px !important;
+	border: none;
+}
+.nav-logo {
+	margin-bottom: 19px;
+}
+.woman	{
+	width: 650px;
+	height: 400px;
+}
+.text {
+	max-width: 419px;
+}
+.paragraf {
+	max-width: 586px;
+}
+.block-4 {
+	background: #F9D15C;
+	border-radius: 12px;
+}
+.fig {
+	text-align: center;
+}
+.fifth-p {
+	max-width: 409px;
+}
+.btn {
+	padding: 8px 29px !important	;
+}
+.card-4 {
+	width: 372px;
+	background: #FFFFFF !important;
+	box-shadow: 0px 30px 40px rgba(0, 0, 0, 0.05);
+	border-radius: 8px !important;
+	border: none;
+	height: 524px;	
+}
+.last {
+	background: #EAECEB;
+	height: 450px !important;
+	border-radius: 16px;
+}
+.h2-text {
+	max-width: 634px;
+}
+.p-text {
+	max-width: 516px;
+}
+.butn {
+	background: #FFFFFF;
+	border-radius: 50px;
+}
+.butn-1 {
+	background: #3771C8;
+	border-radius: 50px;
+	color: white;
+}
+.last-button {
+	width: 456px !important;
+	margin-top: 60px !important;
+	height: 56px !important;
+}
+.img-block {
+	margin-left: 189px;
+}
+.footer-first {
+	width: 300px;
+}
+.card-last {
+	display: none;
+}
+.footer-block {
+	width: 261px;
+}
+.footer-p {
+	max-width: 264px;
+}
+.footer-a {
+	width: 100px;
+}
+
+
+@media all and (max-width: 1198px) {
+	.block-sixth {
+		display: none;
+	}
+	.card-4 {
+		width: 312px;
+	}
+}
+
+@media all and (max-width: 1024px) {
+	.conta img {
+		width: 720px ;
+	}
+	.card-1 p {
+		font-size: larger;
+	}
+	.nav-item {
+		margin-right: -2px;
+	}
+	.card-4 {
+		width: 312px;
+	}
+	.vacation {
+		width: 919px ;
+		height: 716px ;
+	}
+	.our-logo img {
+		width: 103px;
+		height: 68px;
+	}
+	.sign {
+		display: none;
+	}
+	.woman {
+		width: 630px;
+		border-radius: 10px;
+		height: 496px;
+	}
+	.btn {
+		padding: 7px 14px !important;
+	}
+	.block-sixth {
+		display: none;
+	}
+	.card-pr {
+		width: 327px;
+		height: 250px;
+	}
+	.card-text p {
+		text-align: center;
+	}
+	.last-button {
+		width: 561px !important;
+	}
+	.footer-bl {
+		display: none;
+	}
+}
+
+@media all and (max-width: 768px) {
+	.conta img {
+		width: 720px;
+	}
+	.card-1 p {
+		font-size: larger;
+	}
+	.card-4 {
+		height: 476px;
+		margin-right: 10px;
+	}
+	.vacation {
+		width: 627px ;
+		height: 620px ;
+	}
+	.our-logo img {
+		width: 103px;
+		height: 68px;
+	}
+	.finest-vanish {
+		display: none;
+	}
+	.card-last {
+		display: flex;
+	}
+	.woman {
+		width: 648px;
+		border-radius: 10px;
+		height: 387px;
+	}
+	.btn {
+		padding: 0px 18px !important;
+	}
+	.block-sixth {
+		display: none;
+	}
+	.card-pr {
+		width: 276px;
+		height: 250px;
+	}
+		.img-vsh {
+		display: none;
+	}
+	.card-text p {
+		text-align: center;
+	}
+	.last-button {
+		width: 505px !important;
+	}
+	.footer-bl {
+		display: none;
+	}
+}
+
+@media all and (max-width: 762px) {
+		.navbar-burger {
+		display: flex;
+	}
+		.navbar-nav {
+	margin-left: 0px;
+}
+	.conta img {
+		height: 275px ;
+	}
+	.card-1 p {
+		font-size: larger;
+	}
+	.content {
+		width: 344px;
+	}
+	.card-last {
+		display: flex;
+	}
+		.card-1 {
+		width: 200px;
+	}
+	.vacation {
+		width: 360px;
+		height: 275px;
+	}
+	.card-4 {
+		width: 255px;
+		height: 443px;
+	}
+	.our-logo img {
+		width: 103px;
+		height: 68px;
+	}
+	.btn-vanish {
+		display: none;
+	}
+	.woman {
+		width: 514px;
+		border-radius: 10px;
+		height: 304px;
+	}
+	.button-card {
+		display: flex;
+	}
+	.btn {
+		padding: 0px 18px !important;
+	}
+	.block-sixth {
+		display: none;
+	}
+	.card-pr {
+		width: 371px;
+	}
+	.img-vsh {
+		display: none;
+	}
+	.card-text p {
+		text-align: center;
+	}
+	.last-button {
+		width: 479px !important;
+	}
+		.footer-block {
+		margin-top: 40px;
+	}
+	.last {
+		width: 542px;
+	}
+}
+
+@media all and (max-width: 425px) {
+		.navbar-burger {
+		display: flex;
+	}
+		.navbar-nav {
+	margin-left: 0px;
+}
+	.conta img {
+		height: 275px ;
+	}
+	.card-1 p {
+		font-size: larger;
+	}
+	.card-4 {
+		width: 368px;
+		height: 458px;
+	}
+	.content {
+		width: 344px;
+	}
+		.card-1 {
+		width: 200px;
+	}
+	.vacation {
+		width: 360px;
+		height: 275px;
+	}
+	.our-logo img {
+		width: 103px;
+		height: 68px;
+	}
+	.btn-vanish {
+		display: none;
+	}
+	.woman {
+		width: 348px;
+		border-radius: 10px;
+		height: 304px;
+	}
+	.button-card {
+		display: flex;
+	}
+	.btn {
+		padding: 0px 18px !important;
+	}
+	.block-sixth {
+		display: none;
+	}
+	.card-pr {
+		width: 371px;
+	}
+	.img-vsh {
+		display: none;
+	}
+	.card-text p {
+		text-align: center;
+	}
+	.last-button {
+		width: 280px !important;
+	}
+		.footer-block {
+		margin-top: 40px;
+	}
+	.good	 {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+	.last {
+		width: 375px;
+	}
+}
+
+@media all and (max-width: 320px) {
+	.navbar-burger {
+		display: flex;
+	}
+	.conta img {
+		width: 300px ;
+		height: 275px ;
+	}
+	.navbar-nav {
+	margin-left: 0px;
+}
+	.car {
+		width: 291px ;
+		height: 275px ;
+	}
+	.card-4 {
+		width: 300px;
+		height: 440px;
+	}
+	.card-1 p {
+		font-size: larger;
+	}
+	.card-1 {
+		width: 200px;
+	}
+		.good	 {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+	.vacation {
+		width: 300px;
+		height: 275px;
+	}
+	.our-logo img {
+		width: 103px;
+		height: 68px;
+	}
+	.btn-vanish {
+		display: none;
+	}
+	.woman {
+		width: 275px;
+		border-radius: 10px;
+		height: 211px;
+	}
+	.btn {
+		padding: 0px 12px !important;
+	}
+	.img-vsh {
+		display: none;
+	}
+	.block-sixth {
+		display: none;
+	}
+	.card-pr {
+		width: 284px;
+	}
+	.card-text p {
+		text-align: center;
+	}
+	.last-button {
+		width: 260px !important;
+	}
+	.finest-vanish {
+		display: none;
+	}
+	.prices-4 {
+		margin-right: -43px;
+	}
+	.last {
+		width: 300px;
+	}
+	.footer-block {
+		margin-top: 40px;
+	}
+}
